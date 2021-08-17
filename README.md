@@ -32,3 +32,14 @@ python build_batches.py -d unc+ -t testB
 python build_batches.py -d referit -t trainval
 python build_batches.py -d referit -t test
 ```
+
+## Training
+```
+python train.py
+```
+
+
+## Testing 
+```
+python eval.py
+```
