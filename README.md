@@ -14,5 +14,4 @@ If you find this work useful in your research, please consider citing:
 ```
 
 ## Generate data
-Code for data preparation：https://pan.baidu.com/s/1uWTBoVSeWRSgYMjJnnEvsQ 
-fetch code：data
+Code for data preparation：https://pan.baidu.com/s/1uWTBoVSeWRSgYMjJnnEvsQ (fetch code：data)
