@@ -2,7 +2,8 @@
 Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation, CVPR2021
 
 
-
+If you find this work useful in your research, please consider citing:
+```
 @inproceedings{feng2021encoder,
   title={Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentation},
   author={Feng, Guang and Hu, Zhiwei and Zhang, Lihe and Lu, Huchuan},
@@ -10,3 +11,4 @@ Encoder Fusion Network with Co-Attention Embedding for Referring Image Segmentat
   pages={15506--15515},
   year={2021}
 }
+```
